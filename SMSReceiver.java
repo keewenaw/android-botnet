@@ -1,4 +1,4 @@
-package com.keewenaw.bottest;
+package com.bot.bottest;
 
 // This code based on Georgia Weidman's - all credit to her
 // http://georgiaweidman.com/wordpress/application-layer-botnet-port/
